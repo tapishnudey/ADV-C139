@@ -1,0 +1,35 @@
+body {
+    background-size: cover;
+    background-position: center;
+}
+
+.heading {
+    width: 100%;
+    top: 0;
+    text-align: left;
+}
+
+.heading button {
+    float: right;
+    border: 1px solid white;
+}
+
+.heading h1 {
+    display: inline;
+    font-size: 25px;
+}
+
+#play, #status, #restart {
+    font-size: 20px;
+}
+.modal-dialog {
+    width: 50%;
+}
+.footer{
+    position: sticky;
+    margin: 0;
+    color: grey;
+    background-color: white;
+    width: 100%;
+    font-size: 15px;
+}
